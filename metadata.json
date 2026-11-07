@@ -1,0 +1,8 @@
+{
+  "name": "Chùa An Nhiên - Game Đi Chùa Online",
+  "description": "Ứng dụng game đi chùa online mang lại không gian tịnh tâm, gõ mõ tụng kinh, thắp hương, xin xăm Quan Âm, tắm Phật, dải băng ước nguyện và phóng sinh tích lũy công đức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
